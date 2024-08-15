@@ -1,0 +1,13 @@
+# Thư mục tạm thời
+bin/
+obj/
+
+# File thiết lập của người dùng
+*.user
+*.suo
+
+# Thư mục môi trường Visual Studio
+.vs/
+
+# Các thư viện ngoài
+packages/
