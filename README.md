@@ -47,8 +47,8 @@ The application follows a client-server architecture, with the following compone
 3. Build the project.
 
 ### Usage
-1. Run the `ServerApp` to start the server.
-2. Run the `ClientApp` to connect to the server and start chatting.
+1. Run the `ServerApp` to start the server. For localhost, it will be hosted at 127.0.0.1:8888
+2. Run the `ClientApp` to connect to the server, log in with username and password then start communicating.
 
 ## Contributing
 Feel free to fork this repository and submit pull requests.
