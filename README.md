@@ -1,6 +1,4 @@
-Sure! Here's an updated version of your `README.md` file with more details about the architecture:
 
----
 
 # TCP Chat App
 
