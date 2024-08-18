@@ -6,7 +6,7 @@
 gnaohuv
 
 ## Overview
-This project is a chat application developed using the **TCP protocol** for communication and a **Windows Presentation Foundation (WPF)** interface for the user experience.
+This project is a chat application developed using the **TCP protocol** for communication and a **Windows Presentation Foundation (WPF)** interface for the user experience. This project developed for an [assignment](https://github.com/user-attachments/files/16648132/Assignment_02_Hoan.docx) from instructor HoanNN in FPT University (Summer 2024, B3W). This can't even satisfy him though...
 
 ## Features
 - **Chat between clients**: Allows multiple clients to communicate with each other.
